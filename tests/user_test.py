@@ -1,4 +1,4 @@
-from ..app import User
+from app import User
 from unittest import TestCase
 
 
